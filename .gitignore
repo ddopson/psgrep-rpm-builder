@@ -1,0 +1,4 @@
+psgrep-*
+*.rpm
+RPMS
+install-root
